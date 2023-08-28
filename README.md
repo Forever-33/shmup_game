@@ -1,1 +1,2 @@
-# install packages on requirments.txt to play shmup!!!
+# Hello, this is SHMUP game!!!!
+## install packages on requirments.txt
