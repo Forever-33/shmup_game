@@ -1,1 +1,1 @@
-# pip install pygame
+# install packages on requirments.txt
